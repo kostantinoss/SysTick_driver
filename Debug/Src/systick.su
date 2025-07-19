@@ -1,0 +1,3 @@
+../Src/systick.c:6:6:InitSysTick	4	static
+../Src/systick.c:27:6:SysTickDelay	24	static
+../Src/systick.c:37:6:DeInitSysTick	4	static
